@@ -1,5 +1,5 @@
-# Adalab-DA-promo-b-modulo-3-sprint-1-Chloe-Diana
-Te damos la bienvenida al repositorio de Diana y Chloe.
+# Adalab-DA-promo-b-modulo-3-sprint-1
+
 
 Aquí encontrarás nuestras prácticas de Machine Learning durante el Bootcamp de Data Analytics de Adalab.
 Hemos utilizado dos conjuntos de datos:
